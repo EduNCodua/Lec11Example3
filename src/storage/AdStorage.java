@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
- * Created by admin on 21.12.2016.
+ * Created by makovetskyi on 21.12.2016.
  */
 public class AdStorage implements Iterable<String> {
 

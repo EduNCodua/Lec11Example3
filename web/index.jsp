@@ -1,10 +1,11 @@
-<%@ page import="storage.AdStorage" %><%--
+<%--
   Created by IntelliJ IDEA.
-  User: admin
+  User: makovetskyi
   Date: 21.12.2016
   Time: 18:24
   To change this template use File | Settings | File Templates.
 --%>
+<%@ page import="storage.AdStorage" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
 <%! AdStorage storage = AdStorage.getStorage();%>
