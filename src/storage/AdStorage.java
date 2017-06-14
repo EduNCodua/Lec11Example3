@@ -16,11 +16,11 @@ public class AdStorage implements Iterable<String> {
 
     private List<String> ads = new ArrayList<>();
 
-    public AdStorage() {
-        ads.add("Test1");
-        ads.add("Test 2");
-        ads.add("Test 3!");
-    }
+//    protected AdStorage() {
+//        ads.add("Test1");
+//        ads.add("Test 2");
+//        ads.add("Test 3!");
+//    }
 
     public void addad(String newAd) {
         ads.add(newAd);
